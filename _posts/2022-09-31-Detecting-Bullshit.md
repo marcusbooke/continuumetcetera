@@ -1,5 +1,8 @@
 ---
 title: "The Life-Changing Science of Detecting Bullshit"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Blog
   - John V. Petrocelli
