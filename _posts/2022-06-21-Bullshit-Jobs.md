@@ -9,12 +9,6 @@ tags:
   - Bullshit
 ---
 
-tags:
-  - Non-fiction
-  - Life
-  - Bullshit
----
-
 ## Brief Summary
 
 A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one’s own satisfaction, live in solitude, get better at what one does and make art.
