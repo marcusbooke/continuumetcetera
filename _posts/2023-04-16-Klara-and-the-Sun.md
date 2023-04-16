@@ -11,8 +11,6 @@ author: Serhat Beyenir
 id: 20230416102004
 ---
 
-## Klara and the Sun
-
 `Year read: 2023 ::: Rating: 9/10`
 
 ## One Sentence Summary
