@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -56,17 +56,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Serhat Beyenir"
+  name   : "Marcus Booke"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "No hurry, no pause."
   links:
-    - label: "Website"
+    - label: "www"
       icon: "fas fa-fw fa-link"
       url: "https://marcusbooke.github.io/"
 
 footer:
   links:
-    - label: "Website"
+    - label: "www"
       icon: "fas fa-fw fa-link"
       url: "https://marcusbooke.github.io/"
 
