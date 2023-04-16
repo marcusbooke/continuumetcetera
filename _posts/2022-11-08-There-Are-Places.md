@@ -1,5 +1,8 @@
 ---
-title: "There Are Places in the World Where Rules Are Less Important Than"
+title: "There Are Places in the World Where Rules Are Less Important Than Kindness"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Blog
   - Carlo Rovelli
