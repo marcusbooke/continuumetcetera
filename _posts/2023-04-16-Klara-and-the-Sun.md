@@ -7,7 +7,6 @@ tags:
   - Dystopia
   - Fiction
   - Life
-date: 2023-April-16 at 10-20-04
 author: Serhat Beyenir
 id: 20230416102004
 ---
