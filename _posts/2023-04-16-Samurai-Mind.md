@@ -7,15 +7,16 @@ tags:
   - Non-fiction
   - Flow state
   - Philosophy
+  - Samurai
   - Japan
   - Process
 id: 20230416104056
 ---
 
 `Year read: 2023 ::: Rating: /10`
-Training the Samurai Mind @clearyTrainingSamuraiMind2008 [] is 
 
 ## One Sentence Summary
+Training the Samurai Mind @clearyTrainingSamuraiMind2008 [] is 
 
 ## Key Takeaways
 
