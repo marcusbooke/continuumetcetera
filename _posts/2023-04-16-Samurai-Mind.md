@@ -13,7 +13,7 @@ tags:
 id: 20230416104056
 ---
 
-`Year read: 2023 ::: Rating: /10`
+`Year read: 2023 ::: Rating: 9/10`
 
 ## One Sentence Summary
 Training the Samurai Mind @clearyTrainingSamuraiMind2008 [] is 
