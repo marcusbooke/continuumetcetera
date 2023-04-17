@@ -1,5 +1,8 @@
 ---
 title: "The Segovia Technique"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Blog
   - Vladimir Bobri
@@ -12,25 +15,17 @@ tags:
 
 ## Brief Summary
 
-A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one’s own satisfaction, live in solitude, get better at what one does and make art.
-Key Takeaways
-
 Morbi et pellentesque nisi. Suspendisse pellentesque convallis tortor, congue rhoncus massa molestie vitae. Donec lorem libero, commodo quis ex vel, iaculis elementum ante. Praesent mollis libero libero, at fermentum ligula viverra ut.
 
-## Relax
+## Key Takeaways
 
-Phasellus viverra porta facilisis. Pellentesque sed egestas sem. Mauris commodo, lectus mattis auctor tincidunt, mauris nisi feugiat ligula, id convallis dui enim non urna. Suspendisse vitae odio sit amet massa sodales hendrerit ut quis velit. Morbi et pellentesque nisi. Suspendisse pellentesque convallis tortor, congue rhoncus massa molestie vitae. Donec lorem libero, commodo quis ex vel, iaculis elementum ante. Praesent mollis libero libero, at fermentum ligula viverra ut.
+1. Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+2. Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
 
-## Hear
+## Miscellaneous Notes
 
-Dolor sit amet, consectetur adipiscing elit. Integer vitae mauris eu est bibendum vehicula. Phasellus viverra porta facilisis. Pellentesque sed egestas sem. Mauris commodo, lectus mattis auctor tincidunt, mauris nisi feugiat ligula, id convallis dui enim non urna. Suspendisse vitae odio sit amet massa sodales hendrerit ut quis velit.
-
-## Be gentle
-
-Amet, consectetur adipiscing elit. Integer vitae mauris eu est bibendum vehicula. Phasellus viverra porta facilisis. Pellentesque sed egestas sem. . Donec lorem libero, commodo quis ex vel, iaculis elementum ante. Praesent mollis libero libero, at fermentum ligula viverra ut.
-Miscellaneous Notes
-
-Amet, consectetur adipiscing elit. Integer vitae mauris eu est bibendum vehicula. Phasellus viverra porta facilisis. Pellentesque sed egestas sem. . Donec lorem libero, commodo quis ex vel, iaculis elementum ante. Praesent mollis libero libero, at fermentum ligula viverra ut.
+* Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+* Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 ## Reference
 Bobri, V. (1977). The Segovia Technique. 

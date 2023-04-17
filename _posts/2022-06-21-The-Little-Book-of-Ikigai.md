@@ -1,5 +1,8 @@
 ---
 title: "The Little Book of Ikigai"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Blog
   - Ken Mogi

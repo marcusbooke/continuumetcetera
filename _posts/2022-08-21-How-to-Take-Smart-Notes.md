@@ -1,5 +1,8 @@
 ---
 title: "How to Take Smart Notes"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Blog
   - Sönke Ahrens

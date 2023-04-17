@@ -1,5 +1,8 @@
 ---
 title: "The Laws of Human Nature"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Blog
   - Robert Greene
@@ -81,4 +84,4 @@ Unique consciousness of death has created our particular form of love. And throu
 > Premeditation of death is premeditation of freedom. He who has learned how to die has unlearned how to be a slave. – Michel de Montaigne
 	
 ## Reference
-https://www.librarything.com/work/22259472/book/206359747
+Greene, R. (2019). The Laws of Human Nature (Reprint edition). Penguin Books.   
