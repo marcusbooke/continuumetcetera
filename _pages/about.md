@@ -18,3 +18,4 @@ title: "About"
 11. Perceive those things which cannot be seen (e.g. pay attention even to trifles). And do nothing which is of no use. (Miyamoto Musashi)
 12. One who makes a show of valor is hated by others, even he achieves something, it is not praised but denied. (Kumazawa Banzan)
 13. In the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.
+14. We read the same facts differently. For an optimist philosopher the universe spells victory, for a pessimist, defeat. (William James, from Pragmatism and Other Writings).
